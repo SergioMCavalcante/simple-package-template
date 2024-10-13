@@ -1,6 +1,6 @@
 # calculadora_imc_1310
 
-## Descrição
+## Description
 
 O pacote calculadora_imc_1310 é usado para:
 
@@ -9,12 +9,12 @@ O pacote calculadora_imc_1310 é usado para:
 - Calcula o IMC
 - Exibe o IMC e a situação da pessoa
 
-## Instalação
+## Installation
 
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar calculadora_imc_1310
 
 pip install calculadora_imc_1310
 
-## Autor
+## Author
 
 SergioMC
