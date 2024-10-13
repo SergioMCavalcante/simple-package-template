@@ -1,27 +1,20 @@
-# package_name
+# calculadora_imc
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+## Descrição
 
-## Installation
+O pacote calculadora_imc é usado para:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+*Calcular o IMC:*
 
-```bash
-pip install package_name
-```
+- Calcula o IMC
+- Exibe o IMC e a situação da pessoa
 
-## Usage
+## Instalação
 
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar calculadora_imc
 
-## Author
-My_name
+pip install calculadora_imc
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Autor
+
+SergioMC
