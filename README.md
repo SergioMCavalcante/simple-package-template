@@ -1,8 +1,8 @@
-# calculadora_imc
+# calculadora_imc_1310
 
 ## Descrição
 
-O pacote calculadora_imc é usado para:
+O pacote calculadora_imc_1310 é usado para:
 
 *Calcular o IMC:*
 
@@ -11,9 +11,9 @@ O pacote calculadora_imc é usado para:
 
 ## Instalação
 
-Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar calculadora_imc
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar calculadora_imc_1310
 
-pip install calculadora_imc
+pip install calculadora_imc_1310
 
 ## Autor
 
